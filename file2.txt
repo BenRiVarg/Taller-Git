@@ -1,2 +1,7 @@
 numero 2
+<<<<<<< HEAD
+
+JAjajaja saquen al Neto
+=======
 emmanuel estuvo aqui ;)
+>>>>>>> e7efea16c4f62c6f51bd65427248e27aa86c66df
